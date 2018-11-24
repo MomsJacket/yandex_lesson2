@@ -1,1 +1,5 @@
-print(123)
+def st():
+    return 1
+
+
+print(123 + st())
